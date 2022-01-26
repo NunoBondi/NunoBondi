@@ -2,28 +2,26 @@
 
 <h3>Lenguajes de Programación que manejo</h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-80%25%20-orange" />
+  <img src="https://img.shields.io/badge/CSS3-50%25%20-blue" />
+  <img src="https://img.shields.io/badge/C%23-40%25%20-purple" />
+  <img src="https://img.shields.io/badge/Java-20%25%20-red" />
 </p>
 
 <h3>Frameworks y Librerías</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-30%25%20-blue"/>
+  <img src="https://img.shields.io/badge/Boostrap-20%25%20-purple"/>
 </p>
 
 
 <h3>Herramientas</h3>
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-30%25%20-darkblue" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-50%25%20-blue" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%20-Purple"/>
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Sublime%20Text%203-50%25%20-orange" />
 </p>
 
 

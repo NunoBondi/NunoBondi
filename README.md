@@ -20,7 +20,7 @@
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-30%25%20-darkblue" />
   <img src="https://img.shields.io/badge/Visual%20Studio-50%25%20-blue" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%20-Purple"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-20%25%20-purple"/>
   <img src="https://img.shields.io/badge/Sublime%20Text%203-50%25%20-orange" />
 </p>
 

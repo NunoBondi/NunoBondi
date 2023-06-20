@@ -33,5 +33,5 @@
 <h3>Bases de Datos</h3>
 <p>
   <img src="https://img.shields.io/badge/MSSQL%20Server-%20-red"/>
-  <img src="https://img.shields.io/badge/MySQL%20Server-%50-yellow"/>
+  <img src="https://img.shields.io/badge/MySQL%20Server-%20-yellow"/>
 </p>

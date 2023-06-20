@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/.NET-30%25%20-blue"/>
   <img src="https://img.shields.io/badge/Bootstrap-20%25%20-purple"/>
   <img src="https://img.shields.io/badge/Laravel-40%25%20-red"/>
-  <img src="https://img.shields.io/badge/Tailwind%20css-70%25%20-sky-blue"/>
+  <img src="https://img.shields.io/badge/Tailwind%20css-70%25%20-skyblue"/>
 </p>
 
 

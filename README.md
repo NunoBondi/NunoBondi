@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/HTML5-80%25%20-orange" />
   <img src="https://img.shields.io/badge/CSS3-50%25%20-blue" />
   <img src="https://img.shields.io/badge/C%23-40%25%20-purple" />
-  <img src="https://img.shields.io/badge/Java-20%25%20-red" />
+  <img src="https://img.shields.io/badge/JavaScript-50%25%20-yellow" />
+  <img src="https://img.shields.io/badge/PHP-40%25%20-darkblue" />
 </p>
 
 <h3>Frameworks y Librerías</h3>
